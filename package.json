@@ -1,0 +1,78 @@
+{
+  "name": "ptzdashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "make:component": "vue-cli-service make:component",
+    "make:directive": "vue-cli-service make:directive",
+    "make:layout": "vue-cli-service make:layout",
+    "make:mixin": "vue-cli-service make:mixin",
+    "make:view": "vue-cli-service make:view"
+  },
+  "dependencies": {
+    "@braks/revue-draggable": "^0.2.9",
+    "@vue/composition-api": "^1.0.6",
+    "bindings": "^1.5.0",
+    "core-js": "^3.6.5",
+    "file-uri-to-path": "^2.0.0",
+    "node-sass": "^6.0.1",
+    "ress": "^4.0.0",
+    "vue": "^2.6.11",
+    "vue-dnd-zone": "^0.4.0",
+    "vue-router": "^3.2.0",
+    "vuedraggable": "^2.24.3",
+    "vuetify": "^2.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "^3.1.1",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "^3.12.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "material-design-icons-iconfont": "^6.1.0",
+    "pluralize": "^8.0.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.1",
+    "vue-cli-plugin-vuetify-cli": "~0.2.3",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviorodrigues1977/ptzdashboard.git"
+  },
+  "author": "Flávio Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviorodrigues1977/ptzdashboard/issues"
+  },
+  "homepage": "https://github.com/flaviorodrigues1977/ptzdashboard#readme"
+}
