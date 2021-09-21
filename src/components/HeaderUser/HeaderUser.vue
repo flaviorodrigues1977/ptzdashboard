@@ -41,15 +41,15 @@ export default {
         },
         {
           text: "Yan Filipe",
-          avatar: "https://raw.githubusercontent.com/flaviorodrigues1977/dashboard/developer/src/assets/user_yan.png",
+          avatar: "https://raw.githubusercontent.com/flaviorodrigues1977/ptzdashboard/blob/master/src/assets/user_yan.png",
         },
         {
           text: "Danilo",
-          avatar: "https://raw.githubusercontent.com/flaviorodrigues1977/dashboard/developer/src/assets/user-danilo.png",
+          avatar: "https://raw.githubusercontent.com/flaviorodrigues1977/ptzdashboard/blob/master/src/assets/user-danilo.png",
         },
         {
           text: "Rodrigues",
-          avatar: "https://raw.githubusercontent.com/flaviorodrigues1977/dashboard/developer/src/assets/user_flavio.png",
+          avatar: "https://raw.githubusercontent.com/flaviorodrigues1977/ptzdashboard/blob/master/src/assets/user_flavio.png",
         },
       ],
     };
