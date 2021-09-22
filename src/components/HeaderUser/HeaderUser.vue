@@ -37,19 +37,19 @@ export default {
       items: [
         {
           text: "Laurindo",
-          avatar: "https://github.com/flaviorodrigues1977/ptzdashboard/blob/master/src/assets/user_laurindo.png",
+          avatar: "https://github.com/flaviorodrigues1977/ptzdashboard/raw/master/src/assets/user_laurindo.png",
         },
         {
           text: "Yan Filipe",
-          avatar: "https://github.com/flaviorodrigues1977/ptzdashboard/blob/master/src/assets/user_yan.png",
+          avatar: "https://github.com/flaviorodrigues1977/ptzdashboard/raw/master/src/assets/user_yan.png",
         },
         {
           text: "Danilo",
-          avatar: "https://github.com/flaviorodrigues1977/ptzdashboard/blob/master/src/assets/user-danilo.png",
+          avatar: "https://github.com/flaviorodrigues1977/ptzdashboard/raw/master/src/assets/user-danilo.png",
         },
         {
           text: "Rodrigues",
-          avatar: "https://github.com/flaviorodrigues1977/ptzdashboard/blob/master/src/assets/user_flavio.png",
+          avatar: "https://github.com/flaviorodrigues1977/ptzdashboard/raw/master/src/assets/user_flavio.png",
         },
       ],
     };

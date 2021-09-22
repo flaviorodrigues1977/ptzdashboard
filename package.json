@@ -56,8 +56,7 @@
     "parserOptions": {
       "parser": "babel-eslint"
     },
-    "rules": {},
-    "vetur.ignoreProjectWarning": true
+    "rules": {}
   },
   "browserslist": [
     "> 1%",
